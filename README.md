@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/devarshparek/LeetCode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/devarshparek/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/devarshparek/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/devarshparek/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/devarshparek/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/devarshparek/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/devarshparek/LeetCode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devarshparek/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devarshparek/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
